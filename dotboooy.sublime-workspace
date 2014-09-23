@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"time",
+				"time"
+			],
+			[
+				"arr",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"stas",
+				"Git: Stash Drop"
+			],
+			[
+				"stash",
+				"Git: Stash Drop"
+			],
+			[
+				"git:stash",
+				"Git: Stash Apply"
+			],
+			[
+				"stach",
+				"Git: Stash Changes"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"git stash app",
+				"Git: Stash Apply"
+			],
+			[
+				"git stash changes",
+				"Git: Stash Changes"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Paul/Documents/Dotboooy",
+		"/Users/Paul/Documents/Dotboooy/assets"
+	],
+	"file_history":
+	[
+		"/Users/Paul/Documents/Dotboooy/assets/js/temp.js",
+		"/Users/Paul/Documents/Dotboooy/assets/css/main.css",
+		"/Users/Paul/Documents/Dotboooy/assets/main.css",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/start.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/tb/examples/starter-template.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/css/staledata.css",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/tb/templates/layout.mustache",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/css/main.css",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/smeActivatePosting.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/smePreviewSendout.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/pdf-viewer/src/utils/cffStandardStrings.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/xmpp/strophejs/doc/search/ConstantsH.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/models/search.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/controllers/search.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/css/smeEdit.css",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/controllers/user.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/controllers/corp.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/models/smepostedit.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/models/sme.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/cvedit.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/index.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/cvedit.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/sme.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/postinfoedit.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/landingpage/landingpage.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/landingpage.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/magnet.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/registration.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/cv/myCVEdit.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/models/picklist.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/cv/myCV.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/models/email.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/models/sme.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/resultsposting.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/resultsuserqueue.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/controllers/user.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/accessibility.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/postinfoedit.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/account.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/models/User.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/media.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/smemedia.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/smeGuestQueue.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/smeResultsQueue.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/cv.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/topmatches/index.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/bundles/mailblade/views/en/accepted-application.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/bundles/mailblade/views/en/hr-notifications.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/bundles/mailblade/views/en/share-cv.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/html/emails/cvTemplateV4.html",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/controllers/corp.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/bundles/mailblade/views/en/account-confirm-magnet.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/controllers/home.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/controllers/landingpage.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/hraccount.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/crmresultsqueue.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/smecomms.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/smepostinfoedit.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/dashboard/supplyinfo.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/dashboard/demandinfo.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/guestqueue.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/resultssearch.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/smepostinfo.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/sme.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/smeregistration.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/controllers/sme.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/models/dashboard.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/models/dashboardsupplytimeline.test.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/comms/commsOutOfBox.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/smeOutOfBox.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/useragreement.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/comms/messaging.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/comms/commsmessage.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/sme/crmResultsQueue.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/comms/smecomms.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/topmatches.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/public/assets/js/media.js",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/views/home/posting.blade.php",
+		"/Users/Paul/Sites/WhoPlusYou-Html5/application/tests/README.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Evaluate",
+			"The Most Qualified Candidates will be",
+			"The Most Qualified",
+			"Your requirements do not match the qualifications",
+			"<h1>Qualified Candidates</h1>",
+			"Qualified Candidates",
+			"Your requirements may",
+			"Your requirements",
+			"Zero matches",
+			"Qualified Candidates",
+			"Qualified",
+			"Zero Matches. Your requirements",
+			"NUMUSERS",
+			"class",
+			"html",
+			"popupHeader",
+			".smepopupHeader",
+			"replace resume",
+			"Zero users found",
+			"activateUser",
+			"createUser",
+			"please complete",
+			"1 - 2 years",
+			"1 - 2",
+			"Years of Experience",
+			"Specify what",
+			"Specify what you're lookin",
+			"Compensation",
+			" ompensation",
+			"ompensation",
+			"compenstation",
+			"compenstaion",
+			"compnsation",
+			"compn",
+			"compe",
+			"comp",
+			"Compensation",
+			"comp",
+			"WR6ByfosLxY",
+			"www.youtube.com/embed/jeleSOvQBSU",
+			"http://youtu.be/jeleSOvQBSU",
+			"https://www.youtube.com/jeleSOvQBSU",
+			"https://www.youtube.com/watch?v=jeleSOvQBSU",
+			"returnfunction",
+			"Communicate now and going forward",
+			"Communicate",
+			"How Does WhoPlusYou",
+			"====",
+			"Independant",
+			"be notified as soon",
+			"You'll be notified as soon",
+			"Your password has been changed,",
+			"Application Notice",
+			"If you think you received this message",
+			"preferences",
+			"Years of ex",
+			"webstie",
+			"A person at this level is",
+			"A person at this level",
+			"Languages",
+			"Enter the date on which this initiative will commence",
+			"Enter the title of this CRM",
+			"Languages",
+			"Compensation Type",
+			"unpaid if you",
+			"Select unpaid if you",
+			"Select unpaid if you require a",
+			"select the amount of revenue (or ",
+			"For example, if you were a marketing spec",
+			"Select the number of personnel",
+			"Complete a separate work",
+			"Make selections below",
+			"We\\'re",
+			"Share My Resume",
+			"http://mymobile",
+			"Skills & Quality",
+			"Quality",
+			"Skills &",
+			"proceed?",
+			"Private - Not Visible",
+			"The mobile game",
+			"This mobile game was",
+			"Please visit http://mymobile",
+			"select.",
+			"select.desktopDropDown",
+			"Make selections below",
+			"Make selection below to create",
+			"Select the range that best",
+			"Select the employer",
+			"Enter the location in which",
+			"Enter the name of the company",
+			"Enter the date on which you started",
+			"Select the amount of budget",
+			"Enter the areas, within the ",
+			"For example, working within a Human",
+			"Enter your job title as it",
+			"Your profession should reflect",
+			"First name",
+			"focused on the following areas",
+			"focused on the following areas: (",
+			"focused on the following areas:(",
+			"community services. police",
+			"window, such as: m",
+			"There are no responses your",
+			"satisfy at least one of your selections",
+			"satisfy at least one of your connections",
+			"focused on the following areas",
+			"Focus on the trade",
+			"entrepreneurship",
+			"button at the far right",
+			"TA/GA",
+			"industries . ",
+			"Please complete your Profile Informa",
+			"Are you sure you wish",
+			"Job type",
+			"WARNING: Preparing to clear your resume. All the data in your existing WhoPlusYou resume will be lost and you will be presented with a blank profile in edit mode. You can then chose to upload information from an existing Linkedin Profile or Word/PDF document, or manually complete your resume.",
+			"Are you sure you want to pro",
+			"WARNING: Preparing to clear",
+			"preparing to clear",
+			"select the function that best describes the role you",
+			"Teacher",
+			"Profile Statement",
+			"WARNING: Preparing to Clear",
+			"if you think you received this",
+			"http://media.whoplusyou.com",
+			"http://media.whoplusyou.com/media/images/server1/landingpages/small/ru_logo_small.jpg",
+			"are you sure you wish to",
+			"such as"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//$this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 25.0
+	},
+	"project": "dotboooy.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"search.test",
+				"application/tests/models/search.test.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

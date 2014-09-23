@@ -1,0 +1,14 @@
+body {
+	width: 100%;
+	background-color: #000!important;
+}
+
+.comingSoonDiv {
+	margin-top:15%;
+}
+
+.gifbg {
+	background-image:url('/Users/Paul/Documents/Dotboooy/assets/img/testgif.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
