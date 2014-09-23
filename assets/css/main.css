@@ -1,5 +1,10 @@
+html{
+	height: 100%;
+}
+
 body {
 	width: 100%;
+	min-height: 100%;
 	background-color: #000!important;
 }
 
@@ -8,7 +13,8 @@ body {
 }
 
 .gifbg {
-	background-image:url('/Users/Paul/Documents/Dotboooy/assets/img/testgif.gif');
+	background-image:url('../../assets/img/testgif.gif');
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
