@@ -1,5 +1,6 @@
 html{
 	height: 100%;
+	width: 100%;
 }
 
 body {
@@ -8,13 +9,31 @@ body {
 	background-color: #000!important;
 }
 
+.row {
+	margin: 0px!important;
+}
+
+.dbcontainer{
+	width:100%;
+}
+
 .comingSoonDiv {
 	margin-top:15%;
 }
 
 .gifbg {
-	background-image:url('../../assets/img/rallycar.gif');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+	min-height: 720px;
+}
+
+.footer {
+	height: 100px;
+	position: fixed;
+	bottom: 0px;
+    margin-bottom: 0px;
+    display: block;
+    z-index: 2000;
+    width: 100%;
 }
