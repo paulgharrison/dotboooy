@@ -17,6 +17,10 @@ body {
 	width:100%;
 }
 
+.logoDivContainer {
+	z-index: 100;
+}
+
 .logoDiv {
 	margin-top:15%;
 }
@@ -26,6 +30,12 @@ body {
 	background-size: cover;
 	background-position: center;
 	min-height: 720px;
+	position: absolute;
+	top:0px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
 }
 
 .footer {
@@ -36,6 +46,14 @@ body {
 	display: block;
 	z-index: 2000;
 	width: 100%;
+}
+
+#bgimg0 {
+	z-index: 1;
+}
+
+#bgimg1 {
+	z-index: 10;
 }
 
 /*
