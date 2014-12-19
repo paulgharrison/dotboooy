@@ -21,8 +21,12 @@ body {
 	z-index: 100;
 }
 
+.scPlayer {
+	margin-top:5%;
+}
+
 .logoDiv {
-	margin-top:15%;
+	margin-top:5%;
 }
 
 .gifbg {
