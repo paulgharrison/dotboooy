@@ -22,7 +22,9 @@ body {
 }
 
 .logoDiv {
-	margin-top:15%;
+	z-index: 10;
+	background-image: url(file:///Users/paul/Sites/dotboooy/assets/img/DotBoooyLogo.png);
+	background-attachment: fixed;
 }
 
 .gifbg {
@@ -50,6 +52,8 @@ body {
 
 #bgimg0 {
 	z-index: 1;
+	background-image: url(file:///Users/paul/Sites/dotboooy/assets/img/skyline.jpg);
+	background-attachment: fixed;
 }
 
 #bgimg1 {
